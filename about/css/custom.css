@@ -1,0 +1,41 @@
+/* Add your custom CSS here */
+
+header.theme-light { background-color: var(--trend-900) }
+header.theme-light h1 { color: var(--white-000) }
+header.theme-light h2 { color: var(--white-000) }
+header.theme-light h1 span.highlight { color: var(--green-400) }
+nav.theme-light.menu-sticky.menu-on-scroll .nav-toggle .bar-1,
+nav.theme-light.menu-sticky.menu-on-scroll .nav-toggle .bar-2,
+nav.theme-light.menu-sticky.menu-on-scroll .nav-toggle .bar-3 { background-color: var(--green-400) }
+nav.theme-light.menu-sticky.menu-on-scroll .nav-toggle .bar-1,
+nav.theme-light.menu-sticky.menu-on-scroll .nav-toggle .bar-2,
+nav.theme-light.menu-sticky.menu-on-scroll .nav-toggle .bar-3 { background-color: var(--green-400) }
+nav.theme-light.menu-sticky.menu-on-scroll .nav-toggle .bar-1,
+nav.theme-light.menu-sticky.menu-on-scroll .nav-toggle .bar-2,
+nav.theme-light.menu-sticky.menu-on-scroll .nav-toggle .bar-3 { background-color: var(--green-400) }
+nav.theme-light.menu-sticky.menu-on-scroll .nav-toggle .bar-1,
+nav.theme-light.menu-sticky.menu-on-scroll .nav-toggle .bar-2,
+nav.theme-light.menu-sticky.menu-on-scroll .nav-toggle .bar-3 { background-color: var(--green-400) }
+nav.theme-light.menu-sticky.menu-on-scroll .nav-toggle { background-color: var(--green-400) }
+nav.theme-light a#btn-cta:focus,
+nav.theme-light a#btn-cta:hover,
+nav.theme-light a#btn-cta:active { background-color: var(--trend-900) }
+nav.theme-light,
+nav.theme-light ul.links-wrapper.active { background-color: var(--green-400) }
+nav.theme-light,
+nav.theme-light ul.links-wrapper.active { background-color: var(--green-400) }
+nav.theme-light a#btn-cta:link,
+nav.theme-light a#btn-cta:visited { color: var(--white-000) }
+nav.theme-light a#btn-cta:focus,
+nav.theme-light a#btn-cta:hover,
+nav.theme-light a#btn-cta:active { color: var(--white-000) }
+nav.theme-light ul.links-wrapper li a:link,
+nav.theme-light ul.links-wrapper li a:visited { color: var(--white-000) }
+nav.theme-light ul.links-wrapper li a:focus,
+nav.theme-light ul.links-wrapper li a:hover,
+nav.theme-light ul.links-wrapper li a:active { color: var(--white-000) }
+
+
+.section-selector-2 > h2 { color: var(cyan) }
+.section-selector-2 { background-color: var(--green-400) }
+.section-selector-2 p { color: var(cyan) }

@@ -1,0 +1,9 @@
+/* Add your custom CSS here */
+nav.theme-dark.menu-sticky.menu-on-scroll .nav-toggle { background-color: var(--green-400) }
+header.theme-dark h2 { color: var(--white-000) }
+
+
+header.theme-light { background-color: var(--trend-900) }
+header.theme-light h1 { color: var(--white-000) }
+header.theme-light h2 { color: var(--white-000) }
+

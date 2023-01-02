@@ -1,0 +1,18 @@
+/* Add your custom CSS here */
+header.theme-dark h1 { color: var(--white-000) }
+header.theme-dark h2 { color: var(--white-000) }
+nav.theme-dark,
+nav.theme-dark ul.links-wrapper.active { background-color: var(--black-000) }
+nav.theme-dark.menu-sticky.menu-on-scroll,
+nav.theme-dark.menu-sticky.menu-on-scroll ul.links-wrapper.active { background-color: var(--trend-900) }
+nav.theme-dark.menu-sticky.menu-on-scroll .nav-toggle .bar-1,
+nav.theme-dark.menu-sticky.menu-on-scroll .nav-toggle .bar-2,
+nav.theme-dark.menu-sticky.menu-on-scroll .nav-toggle .bar-3 { background-color: var(--green-400) }
+
+.section-selector-1 { background-color: var(--gray-400) }
+
+header.theme-light { background-color: var(--slate-500) }
+header.theme-light h1 { color: var(--white-000) }
+header.theme-light h2 { color: var(--white-000) }
+
+

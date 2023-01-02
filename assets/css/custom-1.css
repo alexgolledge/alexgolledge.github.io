@@ -1,0 +1,30 @@
+/* Add your custom CSS here */
+nav.theme-dark,
+nav.theme-dark ul.links-wrapper.active { background-color: var(--blue-800) }
+nav.theme-dark,
+nav.theme-dark ul.links-wrapper.active { background-color: var(--gray-300) }
+nav.theme-dark,
+nav.theme-dark ul.links-wrapper.active { background-color: var(--gray-200) }
+nav.theme-dark,
+nav.theme-dark ul.links-wrapper.active { background-color: var(--slate-800) }
+nav.theme-dark,
+nav.theme-dark ul.links-wrapper.active { background-color: var(--pink-400) }
+nav.theme-dark,
+nav.theme-dark ul.links-wrapper.active { background-color: var(--rose-300) }
+nav.theme-dark,
+nav.theme-dark ul.links-wrapper.active { background-color: var(--rose-800) }
+nav.theme-dark,
+nav.theme-dark ul.links-wrapper.active { background-color: var(--gray-700) }
+nav.theme-dark .nav-toggle { background-color: var(--pink-700) }
+nav.theme-dark.menu-sticky.menu-on-scroll .nav-toggle { background-color: var(--indigo-800) }
+nav.theme-dark.menu-sticky.menu-on-scroll .nav-toggle .bar-1,
+nav.theme-dark.menu-sticky.menu-on-scroll .nav-toggle .bar-2,
+nav.theme-dark.menu-sticky.menu-on-scroll .nav-toggle .bar-3 { background-color: var(--pink-800) }
+nav.theme-dark.menu-sticky.menu-on-scroll .nav-toggle .bar-1,
+nav.theme-dark.menu-sticky.menu-on-scroll .nav-toggle .bar-2,
+nav.theme-dark.menu-sticky.menu-on-scroll .nav-toggle .bar-3 { background-color: var(--pink-400) }
+nav.theme-dark,
+nav.theme-dark ul.links-wrapper.active { background-color: var(--trans-000) }
+nav.theme-dark.menu-sticky.menu-on-scroll,
+nav.theme-dark.menu-sticky.menu-on-scroll ul.links-wrapper.active { background-color: var(--rose-800) }
+
